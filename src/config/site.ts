@@ -62,7 +62,7 @@ export const siteConfig = {
   description:
     "Frontend Engineer crafting fast, accessible and thoughtfully engineered digital experiences with React, Next.js, TypeScript and Tailwind CSS.",
 
-  url: "https://jawath.dev",
+  url: "https://jawath-portfolio.vercel.app",
   language: "en",
   locale: "en_GB",
 
